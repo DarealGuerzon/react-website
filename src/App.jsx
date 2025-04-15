@@ -5,7 +5,7 @@ import mypadding from './assets/padding.webp';
 import mymaterial from './assets/material.jpg';
 import wrist from './assets/wrist.jpg';
 import aoki from './assets/aoki.webp';
-import kimura from './assets/kimura.jfif';
+import kimura from './assets/Kimura.jfif';
 import kamogawa from './assets/kamogawa.jpg';
 
 
